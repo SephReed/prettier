@@ -1,6 +1,6 @@
-![Prettier Banner](https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png)
+# Prettiest
 
-<h2 align="center">Opinionated Code Formatter</h2>
+<h2 align="center">An UN-opinionated Code Formatter</h2>
 
 <p align="center">
   <em>
